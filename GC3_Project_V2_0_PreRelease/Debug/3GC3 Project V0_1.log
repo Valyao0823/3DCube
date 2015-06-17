@@ -1,0 +1,11 @@
+﻿Build started 11/30/2012 1:14:48 PM.
+     1>Project "C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\GC3_Project_V1_1\3GC3 Project V0_1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Downloads\Source.cpp
+         Source.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\Downloads\Source.cpp': No such file or directory
+     1>Done Building Project "C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\GC3_Project_V1_1\3GC3 Project V0_1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.19
